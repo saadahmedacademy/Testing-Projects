@@ -1,0 +1,29 @@
+a{
+    color: white !important;
+}
+.abc{
+    margin:auto;
+}
+ /**.card-group{
+    border: 2px solid black;
+}**/
+.card{
+    border: 1px groove black  !important;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 3s;
+    z-index: 1;
+    box-shadow: 0px 0px 10px black;
+}
+nav{
+    position: sticky !important ;
+    top: 0 !important;
+    z-index: 10000 !important;
+}
+.navbar-toggler{
+    background-color: white !important;
+}
+.image{
+    background-size:cover ;
+}
